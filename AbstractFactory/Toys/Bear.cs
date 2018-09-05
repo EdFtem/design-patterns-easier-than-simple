@@ -4,7 +4,7 @@ using System.Text;
 
 namespace AbstractFactory.Toys
 {
-    public class Bear : AnimalToy
+    public abstract class Bear : AnimalToy
     {
         protected Bear(string name) : base(name) { }
     }
