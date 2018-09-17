@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csproj", "{69479392-4931-44CD-9A5D-071E1E946BFF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator", "Mediator\Mediator.csproj", "{D05929F9-7BD4-40CC-A410-5D20A824D92D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{69479392-4931-44CD-9A5D-071E1E946BFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69479392-4931-44CD-9A5D-071E1E946BFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69479392-4931-44CD-9A5D-071E1E946BFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D05929F9-7BD4-40CC-A410-5D20A824D92D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D05929F9-7BD4-40CC-A410-5D20A824D92D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D05929F9-7BD4-40CC-A410-5D20A824D92D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D05929F9-7BD4-40CC-A410-5D20A824D92D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -62,6 +68,7 @@ Global
 		{5BC380C9-B346-4292-81AE-540EBA2875A8} = {5E51D6FF-E72D-4B91-919E-B960AA9CA42C}
 		{3C3B0076-E458-4458-9C03-1092722672E3} = {80BFE502-BABC-4D7D-8571-5918D19DB5D0}
 		{69479392-4931-44CD-9A5D-071E1E946BFF} = {80BFE502-BABC-4D7D-8571-5918D19DB5D0}
+		{D05929F9-7BD4-40CC-A410-5D20A824D92D} = {80BFE502-BABC-4D7D-8571-5918D19DB5D0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {98DB442A-D139-4D97-B2C9-4DB94AB444DB}
